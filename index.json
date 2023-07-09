@@ -1,0 +1,22 @@
+{
+  "banner":[
+    {
+      "imageUrl":"/images/b1.png",
+      "src":"#",
+      "title":"Harley-Devidson X440",
+      "about":"In India, the Harley-Davidson X440 cruiser bike can be purchased for between Rs. 2,97,610 and Rs. 3,46,444. There are 3 variations and 4 colors offered. It has disc brakes in the front and back."
+    },
+    {
+      "imageUrl":"/images/b2.png",
+      "src":"https://www.amazon.in/Lloyd-Inverter-Convertible-Anti-Viral-GLS18I3FWAMC/dp/B0BRKXTSBT?crid=126L0ENVW7U8P&keywords=lloyd%2Bac&qid=1688807325&sprefix=lloyd%2Bac%2Caps%2C202&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=swagkaro-21&linkId=0557241b35eb19ffc2b81537a2e639dd&language=en_IN&ref_=as_li_ss_tl",
+      "title":"Lloyd 1.5 Ton 3 Star Inverter Split",
+      "about":"The Lloyd Split AC with Inverter Compressor has a variable speed compressor that adapts electricity automatically to the heat load and room temperature."
+    },
+    {
+      "imageUrl":"/images/b3.png",
+      "src":"https://www.amazon.in/Mini-UPS-Router-WiFi-12V/dp/B08HLZ28QC?crid=2ARYCTX2KSM15&keywords=12v%2Brouter%2Bups%2Bokter&qid=1688568323&sprefix=%2Caps%2C208&sr=8-3&th=1&linkCode=ll1&tag=swagkaro-21&linkId=4cc0def2c9ed9be13ad778ea67326987&language=en_IN&ref_=as_li_ss_tl",
+      "title":"Oakter Mini UPS",
+      "about":"Oakter Mini UPS for 12V WiFi Router Broadband Modem. Backup Upto 4 Hours which gives WiFi Router UPS Power Backup During Power Cuts | Current Surge & Deep Discharge Protection"
+    }
+  ]
+}
